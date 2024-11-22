@@ -1,7 +1,7 @@
 import { getSideBar } from "../utils";
 // https://vitepress.vuejs.org/guide/what-is-vitepress.html
 module.exports = {
-  title: "Mao Lihang's blog",
+  title: "Lu Yixian's blog",
   description: "vue,js,node,html,css,react,前端,微前端,webpack,vite,vue3",
   base: "/blog-site/",
   head: [
@@ -15,7 +15,7 @@ module.exports = {
     nav: [
       { text: "blog", link: "/blog/看一遍就会的setup语法糖" },
       {
-        text: "大前端修炼",
+        text: "前端修炼",
         // 斗者，斗师，大斗师，斗灵，斗王，斗皇，斗宗，斗尊，斗圣，斗帝
         //修仙者境界划分为下境界、中境界和上境界三大阶段，每个境界分为初、中、后期和大圆满。 1、下境界：炼气、筑基、结丹、 元婴 、化神。 2、中境界：炼虚、合体、大乘。 3、上境界：渡劫。
         items: [
@@ -37,7 +37,7 @@ module.exports = {
         ],
       },
       // { text: "案例精选", link: "/demo/1高德地图的使用" },
-      { text: "项目预览", link: "https://admin.spicyboy.cn/" },
+      // { text: "项目预览", link: "https://admin.spicyboy.cn/" },
     ],
     sidebar: {
       ...getSideBar("base"),
@@ -58,9 +58,9 @@ module.exports = {
       apiKey: "f2f4a9df81166f6b151fdf2c2aec1cdb",
       indexName: "mao-118",
     },
-    footer: {
-      message: "转载请注明出处",
-      copyright: "Copyright © 2019-present maolihang",
-    },
+    // footer: {
+    //   message: "转载请注明出处",
+    //   copyright: "Copyright © 2019-present luyixian",
+    // },
   },
 };
