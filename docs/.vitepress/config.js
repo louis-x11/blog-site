@@ -56,7 +56,7 @@ module.exports = {
     algolia: {
       appId: "CBJNVS1RP1",
       apiKey: "f2f4a9df81166f6b151fdf2c2aec1cdb",
-      indexName: "mao-118",
+      indexName: "louis-x11",
     },
     // footer: {
     //   message: "转载请注明出处",

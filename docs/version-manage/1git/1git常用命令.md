@@ -1,4 +1,4 @@
-# [git](https://gitee.com/mao-118/utools-filebed/raw/master/git/Git-2.23.0-64-bit.exe) 常用命令
+# git常用命令
 
 ## 仓库
 
